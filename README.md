@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AstroJS**
 
-- 👨‍💻 All of my projects are available at[ [https://cofloresf.vercel.app/](https://cofloresf.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://cofloresf.vercel.app/](https://cofloresf.vercel.app/)
 
 - 📫 How to reach me **obethflores2014@gmail.com**
 
